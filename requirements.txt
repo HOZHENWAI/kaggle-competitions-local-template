@@ -1,0 +1,11 @@
+# to download
+kaggle
+
+#
+jupyterlab
+
+# numeric
+pandas
+numpy
+
+python-dotenv[cli]
